@@ -12,6 +12,7 @@ This Go package is used to calculate the trimmed mean, supporting both symmetric
 # How to Test
 Run the following command to execute the unit tests:
 - go test
+
 If everything works correctly, the terminal will display: 
 - Pass
 
